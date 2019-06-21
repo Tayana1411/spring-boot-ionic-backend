@@ -1,0 +1,35 @@
+[33mcommit e7de3bf3ac24e6e415fe48f0ef21769be61d6846[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Tayana <tayana.sales@outlook.com>
+Date:   Thu Jun 20 20:58:48 2019 -0300
+
+    Criando operacao de instanciacao
+
+[33mcommit 55ac54c4fc255e5916f708b5f2675e1abaa4684d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Tayana <tayana.sales@outlook.com>
+Date:   Sun Jun 16 20:22:00 2019 -0300
+
+    Criando repository e service para categoria
+
+[33mcommit db38057ea51bd863391e4dfcaedf930ca27555f9[m
+Author: Tayana <tayana.sales@outlook.com>
+Date:   Sun Jun 16 16:06:20 2019 -0300
+
+    Banco de dados H2 e criacao automatica da base de dados
+
+[33mcommit a0076161d48d67c419625c119617aa5723629305[m
+Author: Tayana <tayana.sales@outlook.com>
+Date:   Thu Jun 13 17:13:59 2019 -0300
+
+    Testando a primeira classe de dominio
+
+[33mcommit ab772b2ddc049341d5f294d32c376218895523f0[m
+Author: Tayana <tayana.sales@outlook.com>
+Date:   Thu Jun 13 15:12:57 2019 -0300
+
+    REST testado
+
+[33mcommit f09c3b418f048a09aefb92f41468f038dae4dbfa[m
+Author: Tayana <tayana.sales@outlook.com>
+Date:   Thu Jun 13 14:36:39 2019 -0300
+
+    Projeto criado
